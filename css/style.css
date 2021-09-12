@@ -24,6 +24,7 @@
 	display: inline-block;
 	padding-right: 22px;
 	text-decoration-color: #343638;
+	font-family: 'Bebas Neue', cursive;
 }
 .image-icon {
 	display: inline-block;
@@ -37,4 +38,56 @@
 }
 .grey {
 	color: #343638;
+}
+.first-section {
+	display: inline-block;
+	width: 1160px;
+	height: 410px;
+	margin-left: 140px;
+	margin-top: 75px;
+	margin-right: 140px;
+}
+.first-section-title {
+	width: 1025px;
+	height: 20px;
+	color: #202124;
+	font-family: 'Lato', sans-serif
+}
+.container {
+	display: inline-block;
+	vertical-align: middle;
+	width: 360px;
+	height: 350px;
+	margin-top: 40px;
+
+}
+.image2-paragraph {
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 66px;
+	padding-top: 66px;
+	width: 280px;
+	height: 38px;
+	line-height: 23px;
+	font-size: 13;
+	font-family: 'Hind Siliguri', sans-serif;
+	color: #A6ADB4;
+}
+.time-id{
+	display: inline-block;
+	width: 69px;
+	height: 16px;
+	color: #CBD0D3;
+	padding-left: 40px;
+	padding-top: 10px;
+}
+.time-logo {
+	display: inline-block;
+	vertical-align: middle;
+}
+.time-moment {
+	display: inline-block;
+	vertical-align: middle;
+	color: #CBD0D3;
+	
 }
