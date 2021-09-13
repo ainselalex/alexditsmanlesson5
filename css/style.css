@@ -1,3 +1,4 @@
+/*header part*/
 .header-wrapper {
 	display: inline-block;
 	position: fixed;
@@ -39,6 +40,7 @@
 .grey {
 	color: #343638;
 }
+/*first section*/
 .first-section {
 	position: relative;
 	display: inline-block;
@@ -124,4 +126,55 @@
 	vertical-align: middle;
 	color: #CBD0D3;
 	
+}
+/*second-section*/
+.second-section {
+	display: inline-block;
+	width: 1160px;
+	height: 967px;
+	margin-left: 140px;
+	margin-top: 58px;
+}
+.second-section-title{
+	width: 770px;
+	height: 20px;
+	font-size: 24px;
+	font-family: 'Bebas Neue', cursive;
+
+}
+/*left-block*/
+.left-block {
+	position: relative;
+	display: inline-block;
+	width: 760px;
+	height: 900px;
+	margin-top: 40px;
+}
+.image6 {
+	padding-top: 40px;
+}
+.image5-title {
+	display: inline-block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin-top: 194px;
+	margin-left: 308px;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+/*right-block*/
+.right-block {
+	display: inline-block;
+	vertical-align: top;
+	width: 360px;
+	height: 896px;
+	margin-top: 40px;
+	margin-left: 40px;
+}
+.image8 {
+	padding-top: 102px;
+}
+.image9 {
+	padding-top: 102px;
 }
