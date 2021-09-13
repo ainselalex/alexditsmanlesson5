@@ -40,6 +40,7 @@
 	color: #343638;
 }
 .first-section {
+	position: relative;
 	display: inline-block;
 	width: 1160px;
 	height: 410px;
@@ -60,6 +61,39 @@
 	height: 350px;
 	margin-top: 40px;
 
+}
+.image-title {
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin-left: 40px;
+	margin-top: 68px;
+	padding-top: 28px;
+	width: 280px;
+	height: 16px;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+.image-title2 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin-top: 93px;
+	margin-left: 420px;
+	padding-bottom: 306px;
+	width: 280px;
+	height: 16px;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+.image-title3 {
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin-right: 220px;
+	margin-top: 93px;
+	font-size: 16px;
+	color: #FFFFFF;
 }
 .image2-paragraph {
 	padding-left: 40px;
