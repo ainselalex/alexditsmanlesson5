@@ -5,6 +5,7 @@
 	width: 1440px;
 	height: 50px;
 	margin-right: 100px;
+	z-index: 1000;
 }
 .logo {
 	display: inline-block;
@@ -185,4 +186,52 @@
 	height: 200px;
 	background-color: #A6ADB4;
 	margin-top: 37px;
+}
+/*footer list*/
+.footer-list{
+	display: inline-block;
+	width: 486.09px;
+	height: 84px;
+	margin-left: 147px;
+	margin-top: 56px;
+}
+.footer-logo {
+	width: 37px;
+	height: 13px;
+	top: 0;
+	left: 0;
+	font-size: 13px;
+	color: #FFFFFF;
+}
+
+/*footer-paragraph*/
+.footer-paragraph{
+	display: inline-block;
+	width: 243px;
+	height: 9px;
+	vertical-align: middle;
+}
+.footer-p{
+	display: inline-block;
+	width: 243px;
+	height: 9px;
+	font-size: 11px;
+	line-height: 20px;
+	color: #CBD0D3;
+}
+/*footer-logos part*/
+.footer-logos {
+	display: inline-block;
+	width: 160px;
+	height: 16px;
+	margin-left: 165.2px;
+}
+.twitter {
+	padding-left: 32px;
+}
+.facebook {
+	padding-left: 32px;
+}
+.web {
+	padding-left: 32px;
 }
